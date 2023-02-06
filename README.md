@@ -1,1 +1,1 @@
-# As this was my first attempt at IT Interview, I'm kind of glad at what I got. The task is clearly not finished - reports functionality is only half done. I'm happy I could take part in this recruitment. 
+# As this was my first attempt at IT Interview, I'm kind of glad at what I got. The task is clearly not finished - reports functionality is only half done. I'm happy I could take part in this recruitment and I look forward to hearing some thoughts on improvment.
